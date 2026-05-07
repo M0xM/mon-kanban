@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"Test-Path \\\"C:\\\\Users\\\\mxblc\\\\Documents\\\\Roanne\\\\R209\\\\Livrables\\\\mon-kanban\\\\src\\\\App.css\\\"\",\"description\":\"Check if App.css exists\"}",
+  "error": "Exit code 127\n/usr/bin/bash: line 1: Test-Path: command not found",
+  "timestamp": "2026-05-07T09:33:10.650Z",
+  "retry_count": 1
+}

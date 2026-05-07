@@ -1,0 +1,7 @@
+{"t":0,"agent":"system","event":"skill_invoked","skill_name":"superpowers:brainstorming"}
+{"t":0,"agent":"a88ac7d","agent_type":"unknown","event":"agent_stop","success":true}
+{"t":0,"agent":"a1b1e96","agent_type":"unknown","event":"agent_stop","success":true}
+{"t":0,"agent":"af7f1d4","agent_type":"unknown","event":"agent_stop","success":true}
+{"t":0,"agent":"system","event":"skill_invoked","skill_name":"frontend-design:frontend-design"}
+{"t":0,"agent":"a1239d1","agent_type":"unknown","event":"agent_stop","success":true}
+{"t":0,"agent":"a8d4fb2","agent_type":"unknown","event":"agent_stop","success":true}
