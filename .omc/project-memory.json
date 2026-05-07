@@ -99,14 +99,20 @@
   "hotPaths": [
     {
       "path": "src\\Auth.css",
-      "accessCount": 10,
-      "lastAccessed": 1778146253868,
+      "accessCount": 12,
+      "lastAccessed": 1778147431504,
       "type": "file"
     },
     {
       "path": "src\\App.jsx",
-      "accessCount": 4,
-      "lastAccessed": 1778146454070,
+      "accessCount": 5,
+      "lastAccessed": 1778147475259,
+      "type": "file"
+    },
+    {
+      "path": "src\\App.css",
+      "accessCount": 3,
+      "lastAccessed": 1778147455709,
       "type": "file"
     },
     {
@@ -116,9 +122,9 @@
       "type": "file"
     },
     {
-      "path": "src\\App.css",
+      "path": "src\\index.css",
       "accessCount": 2,
-      "lastAccessed": 1778146433110,
+      "lastAccessed": 1778147422708,
       "type": "file"
     },
     {
